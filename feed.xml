@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gestion de contenu</title>
+    <link href="https://alyciaegli.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://alyciaegli.github.io/gh-pages" />
+    <updated>2022-10-27T21:00:57+02:00</updated>
+    <author>
+        <name>Alycia Egli</name>
+    </author>
+    <id>https://alyciaegli.github.io/gh-pages</id>
+
+    <entry>
+        <title>Ceci est ma nouvelle page</title>
+        <author>
+            <name>Alycia Egli</name>
+        </author>
+        <link href="https://alyciaegli.github.io/gh-pages/ceci-est-ma-nouvelle-page.html"/>
+        <id>https://alyciaegli.github.io/gh-pages/ceci-est-ma-nouvelle-page.html</id>
+
+        <updated>2022-10-27T21:00:57+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alyciaegli.github.io/gh-pages/media/posts/1/gallery/pulp_fiction.jpeg" data-size="320x480"><img loading="lazy" src="https://alyciaegli.github.io/gh-pages/media/posts/1/gallery/pulp_fiction-thumbnail.jpeg" alt="" width="320" height="480"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

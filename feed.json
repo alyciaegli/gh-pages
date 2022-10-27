@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gestion de contenu",
+    "description": "",
+    "home_page_url": "https://alyciaegli.github.io/gh-pages",
+    "feed_url": "https://alyciaegli.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alycia Egli"
+    },
+    "items": [
+        {
+            "id": "https://alyciaegli.github.io/gh-pages/ceci-est-ma-nouvelle-page.html",
+            "url": "https://alyciaegli.github.io/gh-pages/ceci-est-ma-nouvelle-page.html",
+            "title": "Ceci est ma nouvelle page",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://alyciaegli.github.io/gh-pages/media/posts/1/gallery/pulp_fiction.jpeg\" data-size=\"320x480\"><img loading=\"lazy\" src=\"https://alyciaegli.github.io/gh-pages/media/posts/1/gallery/pulp_fiction-thumbnail.jpeg\" alt=\"\" width=\"320\" height=\"480\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Alycia Egli"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T21:00:57+02:00",
+            "date_modified": "2022-10-27T21:00:57+02:00"
+        }
+    ]
+}
